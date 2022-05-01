@@ -1,5 +1,5 @@
 {
-  "name": "NextJS + TypeScript Template",
+  "name": "nextjs-ts-template",
   "private": true,
   "scripts": {
     "build": "next build",
